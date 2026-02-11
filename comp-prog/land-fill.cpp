@@ -3,7 +3,7 @@
 #include <fstream>
 using namespace std;
 
-//A 4‑directional neighbor‑minimum scan that detects local depressions and accumulates the total fill needed.
+//A 4‑directional neighbor‑minimum scan that detects local depressions and accumulates the total fill needed
 
 int main(){
 
